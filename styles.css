@@ -1,0 +1,16 @@
+body {
+  background-color: #d9e5f0;
+}
+
+.container {
+  max-width: 400px;
+  margin: 100px auto;
+  background-color: #f7f1f1;
+  padding: 20px;
+  height:18rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.btn{
+  margin-left: 33%;
+}
